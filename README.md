@@ -21,18 +21,6 @@ It answers the four questions every systems engineer needs answered before a des
 
 ---
 
-## Documentation
-
-| Document | Description |
-|----------|-------------|
-| [Project Overview (PDF)](link) | Architecture, features, evaluation results, and technical design |
-| [Architecture & Design](docs/ARCHITECTURE.md) | Data model, extraction pipeline, linking engine, API design |
-| [Feature Guide](docs/FEATURES.md) | Detailed feature descriptions with usage context |
-| [Demo Walkthrough](docs/DEMO_WALKTHROUGH.md) | Step-by-step guided tour through a sounding rocket CDR scenario |
-| [Design Decisions](docs/DESIGN_DECISIONS.md) | 10 key technical choices with alternatives considered and rationale |
-
----
-
 ## Key Results
 
 | Metric | Value |
